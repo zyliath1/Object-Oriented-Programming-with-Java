@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository contains all my work and notes for the "Object Oriented Programming with Java" course I took. Here you'll find my implementations of the various assignments and projects that were part of this course.
+This repository contains all my work for the "Object Oriented Programming with Java" course I took. Here you'll find my implementations of the various assignments and projects that were part of this course.
 
 ## Course Information
 
