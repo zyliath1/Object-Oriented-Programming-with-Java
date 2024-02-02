@@ -19,15 +19,7 @@ This repository contains all my work for the "Object Oriented Programming with J
 
 - `/src`: Here, you'll find all the source code I wrote for this course.
 
-Please feel free to explore the folders and files to understand more about my learning journey through the course.
 
-## Personal Reflection
-
-This course was an insightful journey into the world of object-oriented programming. I particularly appreciated learning about how to utilize classes effectively. Understanding how to create and use classes to encapsulate data and behavior in a modular and organized way was a game changer for me, and it enhanced my coding skills significantly.
-
-## Acknowledgements
-
-I would like to thank the course instructor and my peers for their support and collaboration throughout this learning journey.
 
 
 
